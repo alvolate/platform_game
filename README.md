@@ -1,4 +1,4 @@
-#Platform game
+# Platform game
 
 MIPS assembly language
 
